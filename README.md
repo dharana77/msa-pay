@@ -1,6 +1,6 @@
 
 
-# FastCampus-Pay Project Overview
+# MSA-Pay Project Overview
 ![Overall Architecture](md_resource/Overall_Architecture_Image.png)
 
 일반적인 간편결제 도메인을 주제로, MSA 를 중점적으로 학습하기 위한 교육용 프로젝트입니다.
